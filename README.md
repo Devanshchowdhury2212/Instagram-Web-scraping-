@@ -7,6 +7,7 @@ It can also find your Following and Followers .One can check Other people Posts 
 
 If someone choses to use the code please use it within limits as giving it large amountsto scrape will increase the traffic for the website and may result in your 
 account to be banned or even legal actions .
+Please Use it responsibly.
 
 I hope the project helps you to sharp your skills as much as help me develop mine , and Lastly 
-                         HAVE FUN WHILE CODING
+                         HAVE FUN WHILE CODING .
